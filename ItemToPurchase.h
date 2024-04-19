@@ -16,6 +16,6 @@ public:
 ItemToPurchase();
 void SetName(string name);
 void SetPrice(int price);
-void SetQuantity
+void SetQuantity(int quantity);
 
 #endif
