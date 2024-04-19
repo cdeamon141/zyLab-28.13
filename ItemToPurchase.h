@@ -13,7 +13,7 @@ int itemPrice;
 int itemQuantity;
 
 public:
-ItemToPurchase();
+ItemToPurchase(string name, int price, int quantity);
 void SetName(string name);
 void SetPrice(int price);
 void SetQuantity(int quantity);
