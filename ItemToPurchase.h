@@ -17,5 +17,8 @@ ItemToPurchase();
 void SetName(string name);
 void SetPrice(int price);
 void SetQuantity
+string getName();
+int GetPrice();
+int GetQuantity();
 
 #endif
