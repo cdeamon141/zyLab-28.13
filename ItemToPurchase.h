@@ -21,4 +21,6 @@ string GetName();
 int GetPrice();
 int GetQuantity();
 
+};
+
 #endif
