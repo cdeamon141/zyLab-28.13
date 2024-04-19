@@ -4,6 +4,19 @@ using namespace std;
 #include "ItemToPurchase.h"
 
 /* Type your code here */
+
+
+
+
+
+
+
+
+
+
+
+
+
 ItemToPurchase::ItemToPurchase(string name = "none", int price = 0, int quantity = 0){
 itemName = name;
 itemPrice = price;
